@@ -1,4 +1,6 @@
-# Luke's build of dwm
+# RMS build of dwm
+
+*This repo has been forked from Luke Smith.*
 
 ## FAQ
 
